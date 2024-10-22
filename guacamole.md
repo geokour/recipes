@@ -5,4 +5,4 @@
 * salt
 * extra salt
 ## Instructions
-An ill-considered change
+Put all into a bowl
